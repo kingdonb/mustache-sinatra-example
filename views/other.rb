@@ -1,4 +1,4 @@
-class App
+class Hurl
   module Views
     class Other < Mustache
       def ascii_art

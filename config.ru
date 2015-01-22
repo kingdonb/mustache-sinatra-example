@@ -1,5 +1,5 @@
-require 'app'
+require './web'
 
 use Rack::ShowExceptions
 
-run App.new
+run Hurl.new

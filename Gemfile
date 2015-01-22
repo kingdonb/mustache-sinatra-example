@@ -1,5 +1,5 @@
-source :rubygems
+source 'https://rubygems.org'
 
-gem "mustache"
+gem "mustache-sinatra"
 gem "sinatra"
 gem "shotgun"

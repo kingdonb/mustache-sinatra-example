@@ -1,4 +1,4 @@
-class App
+class Hurl
   module Views
     class Layout < Mustache
       def title 

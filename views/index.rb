@@ -1,4 +1,4 @@
-class App
+class Hurl
   module Views
     class Index < Layout
       def content
